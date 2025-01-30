@@ -59,7 +59,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p/>
     <a href="https://github.com/LuksPcabral">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/Lukscabral">LinkedIn</a>
+    <a href="www.linkedin.com/in/lukscabral">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/lukscabral/">
     Instagram</a>
