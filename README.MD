@@ -21,7 +21,7 @@ DeepSeek:
 
 |   Ação   | prompt                                                                                                                        |
 | :------: | ----------------------------------------------------------------------------------------------------------------------------- |
-|  título  | Crie um título de um ebook sobre o tema de analise de dados, o título deve ser épico e curto, me liste 5 variações de títulos |
+|  título  | Crie um título de um ebook sobre o tema de analise de dados, o título deve ser épico e curto, me liste variações de títulos |
 
 ChatGPT：
 
@@ -34,6 +34,13 @@ GAMMA：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Oráculo Digital |
+| Introdução | O que é análise de dados?, Importância da análise de dados no mundo atual, Como esse eBook pode ajudar o leitor |
+| Capítulo 1  | Fundamentos da Análise de Dados |
+| Capítulo 2 | Ferramentas para Análise de Dados  |
+|Capítulo 3 | Métodos e Processos de Análise |
+| Capítulo 4 | Machine Learning e Inteligência Artificial |
+|Capítulo 5 | Aplicações Práticas da Análise de Dados |
+|Conclusão e Próximos Passos | Conclusão e Próximos Passos |
 
 ## ✨ Features
 
