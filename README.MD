@@ -19,7 +19,8 @@ seguem abaixo.
 
 DeepSeek:
 
-|   Ação   | prompt                                                                                                                        |                                                               | :------: | ----------------------------------------------------------------------------------------------------------------------------- |   
+|   Ação   | prompt                                                                                                                        |
+| :------: | ----------------------------------------------------------------------------------------------------------------------------- |
 |  título  | Crie um título de um ebook sobre o tema de analise de dados, o título deve ser épico e curto, me liste 5 variações de títulos |
 
 ChatGPT：
