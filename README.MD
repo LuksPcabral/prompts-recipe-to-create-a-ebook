@@ -33,7 +33,7 @@ GAMMA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Oráculo Digital |
+| Título | Oráculo Digital |
 | Introdução | O que é análise de dados?, Importância da análise de dados no mundo atual, Como esse eBook pode ajudar o leitor |
 | Capítulo 1  | Fundamentos da Análise de Dados |
 | Capítulo 2 | Ferramentas para Análise de Dados  |
