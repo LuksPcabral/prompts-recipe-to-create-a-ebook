@@ -56,7 +56,7 @@ GAMMA：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como GAMMA, Canvas, Docs.
 
 ## 👨‍💻 Expert
-
+<p/>
     <a href="https://github.com/LuksPcabral">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/Lukscabral">LinkedIn</a>
