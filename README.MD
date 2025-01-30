@@ -19,16 +19,16 @@ seguem abaixo.
 
 DeepSeek:
 
-|   Ação   | prompt
-                                                                               |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |   
-|  título  | Crie um título de um ebook sobre o tema de analise de dados, o título deve ser épico e curto, me liste 5 variações de títulos  
+|   Ação   | prompt                                                            |
+                                                                               
+| :------: | ----------------------------------------------------------------- |   
+|  título  | Crie um título de um ebook sobre o tema de analise de dados, o título deve ser épico e curto, me liste 5 variações de títulos |
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                     |
-| conteúdo | Faça um texto para ebook , com foco em analise de dados, definir para quem o eBook será destinado, além disso, incluir exercícios ou projetos práticos
+|   Ação   | prompt                                                               |
+| :------: | -------------------------------------------------------------------- |                                                     
+| conteúdo | Faça um texto para ebook , com foco em analise de dados, definir para quem o eBook será destinado, além disso, incluir exercícios ou projetos práticos |
 
 GAMMA：
 
