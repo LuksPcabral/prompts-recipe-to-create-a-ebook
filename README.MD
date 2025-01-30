@@ -49,8 +49,7 @@ GAMMA：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas em `ORACULO-DIGITAL (1).pdf`
 
 ## 🛠️ Instruções de execução
 
@@ -59,20 +58,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+ 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/LuksPcabral">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/Lukscabral">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/lukscabral/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -80,5 +74,3 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
