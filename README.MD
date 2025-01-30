@@ -12,7 +12,7 @@ seguem abaixo.
 
 - [ChatGPT - Write for me](https://chatgpt.com/g/g-B3hgivKK9-write-for-me) 
 - [GAMMA](https://gamma.app/)
-- [DeepSeek] (https://chat.deepseek.com)
+- [DeepSeek](https://chat.deepseek.com)
 - [Snappify](https://snappify.com/)
 
 ## 🧠 Prompts
